@@ -1,0 +1,12 @@
+	Title : Stoplight.c
+	Author : Andrew Struve
+	Date : 7/20/2013
+	Description: Stoplight is a simple project using a red, green, and yellow 
+	led (Stoplight colors). 
+
+	input keys :
+	a - red
+	s - yellow
+	d - green
+	Press enter after typing a key.
+
